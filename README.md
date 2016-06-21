@@ -1,10 +1,10 @@
 
-## String Methods Interactive Practice
+# String Methods Interactive Practice
 ### What will each of the following lines of code return?
 
 ???
 
-# String Practice
+## String Practice
 
 ?: puts "i am super excited about coding!".upcase
 
@@ -42,7 +42,7 @@
 
 ???
 
-# Now it's your turn to use string methods. 
+## Now it's your turn to use string methods. 
 
 ?: Get enthusiastic about ruby! How do I print out "I love ruby" in all caps?
 
@@ -77,4 +77,3 @@
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-strings-mini-lab' title='String Methods Interactive Practice'>String Methods Interactive Practice</a> on Learn.co and start learning to code for free.</p>
