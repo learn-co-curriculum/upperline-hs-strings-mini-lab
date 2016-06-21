@@ -46,34 +46,34 @@
 
 ?: Get enthusiastic about ruby! How do I print out "I love ruby" in all caps?
 
-( ) '"I love Ruby".swapcase'
-(X) '"I love Ruby".upcase'
-( ) '"I love Ruby".uppercase'
+( ) "I love Ruby".swapcase
+(X) "I love Ruby".upcase
+( ) "I love Ruby".uppercase
 
-?: Use a method to print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
+?: Use a method to print out how long the sentence "This is a pretty long string. I wonder how long it is?" is
  
-(X) '"This is a pretty long string. I wonder how long it is?".length'
-( ) '"This is a pretty long string. I wonder how long it is?".swapcase'
-( ) '"This is a pretty long string. I wonder how long it is?".printlength'
+(X) "This is a pretty long string. I wonder how long it is?".length
+( ) "This is a pretty long string. I wonder how long it is?".swapcase
+( ) "This is a pretty long string. I wonder how long it is?".printlength
 
 
 ?: It's backwards day! How would you print "backwards" backwards?
 
-( ) '"backwards".length'
-( ) '"backwards".backwards'
-(X) '"backwards".reverse'
+( ) "backwards".length
+( ) "backwards".backwards
+(X) "backwards".reverse
 
 ?: Wouldn't it be great if there was a string method that always capitalized the first letter of a string? There is! "make it capitalize the first letter in this string!"
 
-( ) '"make it capitalize the first letter in this string!".upcase'
-( ) '"make it capitalize the first letter in this string!".swapcase'
-(X) '"make it capitalize the first letter in this string!".capitalize'
+( ) "make it capitalize the first letter in this string!".upcase
+( ) "make it capitalize the first letter in this string!".swapcase
+(X) "make it capitalize the first letter in this string!".capitalize
 
 ?: How much do we love "Ruby"? So much that we want to say it in all caps AND backwards. How would you do this?
 
-( ) '"Ruby".captialize.reverse'
-( ) '"Ruby".reverse.swapcase'
-(X) '"Ruby".upcase.reverse'
+( ) "Ruby".captialize.reverse
+( ) "Ruby".reverse.swapcase
+(X) "Ruby".upcase.reverse
 
 ???
 
