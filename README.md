@@ -51,7 +51,7 @@
 ( ) "I love Ruby".uppercase
 
 ?: Use a method to print out how long the sentence "This is a pretty long string. I wonder how long it is?" is
- 
+
 (X) "This is a pretty long string. I wonder how long it is?".length
 ( ) "This is a pretty long string. I wonder how long it is?".swapcase
 ( ) "This is a pretty long string. I wonder how long it is?".printlength
